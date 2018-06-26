@@ -1,2 +1,6 @@
 hi,i hope you can enjoy your life.
+<<<<<<< HEAD
 hi,i hope you can forget that dream.
+=======
+hi£¬i hope you can forget that dream.
+>>>>>>> dev
